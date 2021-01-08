@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "afaf",
+      "price": "033",
+      "id": 14
+    },
+    {
+      "name": "asfd",
+      "price": "88",
+      "id": 15
+    },
+    {
+      "name": "rara",
+      "price": "3",
+      "id": 17
+    },
+    {
+      "name": "adf",
+      "price": "03333",
+      "id": 18
+    },
+    {
+      "name": "h",
+      "price": 99.99,
+      "id": 20
+    },
+    {
+      "name": "l",
+      "price": 0,
+      "id": 21
+    },
+    {
+      "name": "l",
+      "price": 0,
+      "id": 22
+    },
+    {
+      "name": "l",
+      "price": 0,
+      "id": 23
+    },
+    {
+      "name": "l",
+      "price": 0,
+      "id": 24
+    },
+    {
+      "name": "Angelo José Orssatto",
+      "price": 0,
+      "id": 25
+    }
+  ]
+}
